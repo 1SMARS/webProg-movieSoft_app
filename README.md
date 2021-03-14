@@ -3,9 +3,9 @@
 ## API description:
 1.To access data by REST API entry point is /home<br>
 2.To view all films you should access /films<br>
-3.To view one film you should access films/{id}<br>
+3.To view one film you should access /films/{id}<br>
 4.To add film you should do a POST request to /add (text length should not exceed 255.)<br>
-5.To edit and update film you should do a POST request to films/{id}/edit<br>
+5.To edit and update film you should do a POST request to /films/{id}/edit<br>
 6.To delete film you should do a POST request to /films/{id}/delete
 ## Screenshots:
 In this web application, you can add films yourself<br>
